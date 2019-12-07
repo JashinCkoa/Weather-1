@@ -8,15 +8,15 @@ const cities = {
     name: 'Chisinau',
   },
   moscow: {
-    url: 'https://cdn.getyourguide.com/img/tour_img-1233054-98.jpg',
+    url: 'https://media.publika.md/md/image/201907/w720/moscova02_19170600.jpg',
     name: 'Moscow',
   },
   ny: {
-    url: 'https://d12dkjq56sjcos.cloudfront.net/pub/media/wysiwyg/newyork/01-city-landing/New-York-Skyline-Big-Bus-Tours-Jan-2018.jpg',
+    url: 'https://media.architecturaldigest.com/photos/5da74823d599ec0008227ea8/16:9/w_2560%2Cc_limit/GettyImages-946087016.jpg',
     name: 'New York',
   },
   paris: {
-    url: 'https://imgix.bustle.com/uploads/shutterstock/2019/9/19/a49124d9-5f62-47a5-b5ec-8dd3a3066b30-shutterstock-1420728554.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70&dpr=2',
+    url: 'https://imgix.bustle.com/uploads/shutterstock/2019/9/19/a49124d9-5f62-47a5-b5ec-8dd3a3066b30-shutterstock-1420728554.jpg?w=970&h=546&fit=crop&crop=faces&auto=format&q=70',
     name: 'Paris',
   },
 };
